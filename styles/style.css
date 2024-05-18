@@ -1,0 +1,42 @@
+.div {
+    text-align: center;
+}
+/*registration link*/
+.title {
+     font-size: 20px;
+     text-decoration: none;
+     font-weight: 500;
+}
+
+.login {
+    color: #3D3D3D;
+}
+
+.register {
+    color: #46A358;
+}
+/*styles for tooltip text*/
+.hint {
+    font-size: 13px;
+    color: #3D3D3D;
+}
+/*styles for form filling*/
+.form {
+    font-size: 14px;
+}
+/*styles for the button*/
+.button {
+    background-color: #46A358;
+    border-width: 0;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+}
+/*link styles*/
+.network{
+    color: #727272;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 500;
+}
