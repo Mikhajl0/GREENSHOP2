@@ -10,11 +10,13 @@ body {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 30px;
+    outline: 2px solid red;
 }
 /*part of the header*/
 .header {
-    margin-top: 30px;
     margin-bottom: 12px;
+    background-color: bisque;
 }
 
 .logo {
@@ -80,11 +82,11 @@ body {
 .content {
     background-color: rgba(245, 245, 245, 0.5);
     padding-left: 40px;
-    padding-bottom: 85px;
     vertical-align: top;
 }
 .text-content{
     padding-top: 68px;
+    padding-bottom: 85px;
     display: inline-block;
     vertical-align: top;
     width: 557px;
